@@ -7,13 +7,17 @@
 </div>
 Zenix is an AI-powered meme coin that brings fun, curiosity, and accessibility to the world of artificial intelligence. It’s not just a token – it’s a movement to help people embrace AI in managing their future lives.
 
-#✨ AI Tools : AI-driven solutions refer to the application of artificial intelligence technologies to automate, optimize, and enhance various processes across different industries.
+#✨ AI Tools : 
+AI-driven solutions refer to the application of artificial intelligence technologies to automate, optimize, and enhance various processes across different industries.
 
-# ✨ AI NFT Marketplace : Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapidly growing Web3 space. Here's a breakdown of what it is, how it works, and what features make it next-gen.
+# ✨ AI NFT Marketplace : 
+Creating an AI-Driven NFT Marketplace is a powerful way to stand out in the rapidly growing Web3 space. Here's a breakdown of what it is, how it works, and what features make it next-gen.
 
-# ✨ AI Application : An AI application is any software that uses Artificial Intelligence to perform tasks that usually require human intelligence.
+# ✨ AI Application : 
+An AI application is any software that uses Artificial Intelligence to perform tasks that usually require human intelligence.
 
-# ✨ AI Earn : Artificial Intelligence (AI) is rapidly changing how we work and earn money, and you don’t need to be a tech expert to take advantage.
+# ✨ AI Earn : 
+Artificial Intelligence (AI) is rapidly changing how we work and earn money, and you don’t need to be a tech expert to take advantage.
 
 
 # Link us
