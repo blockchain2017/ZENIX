@@ -7,7 +7,7 @@
 </div>
 Zenix is an AI-powered meme coin that brings fun, curiosity, and accessibility to the world of artificial intelligence. It’s not just a token – it’s a movement to help people embrace AI in managing their future lives.
 
-#✨ AI Tools : 
+# ✨ AI Tools : 
 AI-driven solutions refer to the application of artificial intelligence technologies to automate, optimize, and enhance various processes across different industries.
 
 # ✨ AI NFT Marketplace : 
