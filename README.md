@@ -24,12 +24,12 @@ Artificial Intelligence (AI) is rapidly changing how we work and earn money, and
 
 🌐 Website : https://zenixs.org/
 
-🌐 Smart Contract : https://etherscan.io/token/0x3d1428A0f17bD5D2dDA4F65C383E9e86d22E5c3B
+🔒 Smart Contract : https://etherscan.io/token/0x3d1428A0f17bD5D2dDA4F65C383E9e86d22E5c3B
 
-📊 Smart Contract : https://bscscan.com/token/0x54D017c45105333fa0c52ec5c7b89d1d48ac1037
+🔒 Smart Contract : https://bscscan.com/token/0x54D017c45105333fa0c52ec5c7b89d1d48ac1037
 
-🟩 Smart Contract : https://polygonscan.com/token/0xDd9939C0e29014CeBeF654c1eBB4785e11D5f963
+🔒 Smart Contract : https://polygonscan.com/token/0xDd9939C0e29014CeBeF654c1eBB4785e11D5f963
 
 🚮 Twitter : https://x.com/zenixcommunity
 
-🟢 Telegram : https://t.me/zenixcommunity2
+📍 Telegram : https://t.me/zenixcommunity2
