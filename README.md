@@ -1,6 +1,6 @@
 # ZENIX, The Meme AI That Charges into the Future
 
-<div align="center"><img src="(https://zenixs.org/wp-content/uploads/2025/07/ICON-ZENIX.fw_.png)" /><br />
+<div align="center"><img src="(https://zenixs.org/wp-content/uploads/2025/07/zenix-logo.fw_.png)" /><br />
 </div>
 <div align="center">
   <h1>
